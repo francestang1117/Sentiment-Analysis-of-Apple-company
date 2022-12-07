@@ -1,6 +1,6 @@
 #CSCI 6509 P07-Sentiment Analysis of Apple company
 
-# The main code file is code-v1.ipynb
+##The main code file is code-v1.ipynb
 <p> the data processing we referred to several package documentation, such as pandas, matplotlib, seaborn.
      documentation of those package could be found at links below : </p>
 <pre><code>
@@ -8,8 +8,8 @@ https://pandas.pydata.org/docs/user_guide/dsintro.html
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.boxplot.html
 https://seaborn.pydata.org/tutorial.html
 </code></pre>
-#Data visualization#
-##boxplot##
+# Data visualization 
+## boxplot
 <p> most of methods at data visualization part are from the documentation of package seaborn, matplotlib, and pandas. the codes below are located at In [126], I referred some online solutions. The codes are modified based on our dataset and the style we want. The core part is I refer to the way to pivot dataset, so that I can have a stacked plot with three different categories. </p>
 <p>code in our project</p>
 <pre><code>
