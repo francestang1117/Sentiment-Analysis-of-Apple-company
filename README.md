@@ -1,13 +1,15 @@
-#CSCI 6509 P07-Sentiment Analysis of Apple company
+# CSCI 6509 P07-Sentiment Analysis of Apple company
 
-##The main code file is code.ipynb
+## The main code file is code.ipynb
 <p> the data processing we referred to several package documentation, such as pandas, matplotlib, seaborn, sklearn.
      documentation of those package could be found at links below : </p>
-<pre><code>
-https://pandas.pydata.org/docs/user_guide/dsintro.html
-https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.boxplot.html
-https://seaborn.pydata.org/tutorial.html
-</code></pre>
+
+<https://pandas.pydata.org/docs/user_guide/dsintro.html>. 
+
+<https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.boxplot.html>. 
+
+<https://seaborn.pydata.org/tutorial.html>
+
 # Data visualization 
 ## boxplot
 <p> most of methods at data visualization part are from the documentation of package seaborn, matplotlib, and pandas. the codes below are located at In [126], I referred some online solutions. The codes are modified based on our dataset and the style we want. The core part is I refer to the way to pivot dataset, so that I can have a stacked plot with three different categories. </p>
@@ -42,6 +44,7 @@ plt.xlabel("Year", fontsize=15)
 plt.ylabel("Number", fontsize=15)
 </code></pre>
 
+## Other figures
 <p> The code of visualizations refers to the examples in the documents for the packages and some online websites. The link is below: </p>
 
 <https://seaborn.pydata.org/generated/seaborn.histplot.html>. 
@@ -56,6 +59,7 @@ plt.ylabel("Number", fontsize=15)
 
 <https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html>
 
+# Supervised learning approaches: Naive Bayes classifier and SVM
 <p> The code of models refer to the links below: </p>
 
 <https://scikit-learn.org/stable/modules/naive_bayes.html>    
@@ -68,11 +72,12 @@ plt.ylabel("Number", fontsize=15)
 
 <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html>         
 
-
+# Spearman correlation
 <p> Spearman correlation implementation refers to the link below: </p>
 
 <https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.spearmanr.html>
 
+# Lexicon-based approaches: VADER and AFINN
 <p> Vader and Afinn implementation refers to the links below: </p>
 
 <https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader>.  
