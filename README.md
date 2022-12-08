@@ -65,7 +65,7 @@ plt.ylabel("Number", fontsize=15)
 
 <p> Vader and Afinn implementation refers to the links below: </p>
 
-<https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/>
+<https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader>
 <https://github.com/fnielsen/afinn>
 
 
