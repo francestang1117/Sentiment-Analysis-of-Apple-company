@@ -43,6 +43,7 @@ plt.ylabel("Number", fontsize=15)
 </code></pre>
 
 <p> The code of visualizations refers to the examples in the documents for the packages and some online websites. The link is below: </p>
+
 <https://seaborn.pydata.org/generated/seaborn.histplot.html>
 <https://github.com/amueller/word_cloud/tree/master/examples>
 <https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axhline.html>
@@ -51,6 +52,7 @@ plt.ylabel("Number", fontsize=15)
 <https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html>
 
 <p> The code of models refer to the links below: </p>
+
 <https://scikit-learn.org/stable/modules/naive_bayes.html>
 <https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC>
 <https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html>
@@ -59,9 +61,11 @@ plt.ylabel("Number", fontsize=15)
 
 
 <p> Spearman correlation implementation refers to the link below: </p>
+
 <https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.spearmanr.html>
 
 <p> Vader and Afinn implementation refers to the links below: </p>
+
 <https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader>
 <https://github.com/fnielsen/afinn>
 
