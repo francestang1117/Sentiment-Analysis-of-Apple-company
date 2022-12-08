@@ -58,11 +58,15 @@ plt.ylabel("Number", fontsize=15)
 
 <p> The code of models refer to the links below: </p>
 
-<https://scikit-learn.org/stable/modules/naive_bayes.html>
-<https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC>
-<https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html>
-<https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html>
-<https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html>
+<https://scikit-learn.org/stable/modules/naive_bayes.html>    
+
+<https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC>.      
+
+<https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html>       
+
+<https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html>       
+
+<https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html>         
 
 
 <p> Spearman correlation implementation refers to the link below: </p>
@@ -71,7 +75,8 @@ plt.ylabel("Number", fontsize=15)
 
 <p> Vader and Afinn implementation refers to the links below: </p>
 
-<https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader>
+<https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader>.  
+
 <https://github.com/fnielsen/afinn>
 
 
