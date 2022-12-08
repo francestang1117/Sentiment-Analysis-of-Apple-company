@@ -44,11 +44,16 @@ plt.ylabel("Number", fontsize=15)
 
 <p> The code of visualizations refers to the examples in the documents for the packages and some online websites. The link is below: </p>
 
-<https://seaborn.pydata.org/generated/seaborn.histplot.html>
-<https://github.com/amueller/word_cloud/tree/master/examples>
-<https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axhline.html>
-<https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/axhspan_demo.html#sphx-glr-gallery-subplots-axes-and-figures-axhspan-demo-py>
-<https://matplotlib.org/stable/gallery/lines_bars_and_markers/timeline.html#sphx-glr-gallery-lines-bars-and-markers-timeline-py>
+<https://seaborn.pydata.org/generated/seaborn.histplot.html>. 
+
+<https://github.com/amueller/word_cloud/tree/master/examples>.   
+
+<https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axhline.html>.   
+
+<https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/axhspan_demo.html#sphx-glr-gallery-subplots-axes-and-figures-axhspan-demo-py>.    
+
+<https://matplotlib.org/stable/gallery/lines_bars_and_markers/timeline.html#sphx-glr-gallery-lines-bars-and-markers-timeline-py>.   
+
 <https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html>
 
 <p> The code of models refer to the links below: </p>
