@@ -1,7 +1,7 @@
 #CSCI 6509 P07-Sentiment Analysis of Apple company
 
-##The main code file is code-v1.ipynb
-<p> the data processing we referred to several package documentation, such as pandas, matplotlib, seaborn.
+##The main code file is code.ipynb
+<p> the data processing we referred to several package documentation, such as pandas, matplotlib, seaborn, sklearn.
      documentation of those package could be found at links below : </p>
 <pre><code>
 https://pandas.pydata.org/docs/user_guide/dsintro.html
@@ -42,6 +42,35 @@ plt.xlabel("Year", fontsize=15)
 plt.ylabel("Number", fontsize=15)
 </code></pre>
 
+<p> The code of visualizations refers to the examples in the documents for the packages and some online websites. The link is below: </p>
+<pre><code>
+https://seaborn.pydata.org/generated/seaborn.histplot.html
+https://github.com/amueller/word_cloud/tree/master/examples
+https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.axhline.html
+https://matplotlib.org/3.1.1/gallery/subplots_axes_and_figures/axhspan_demo.html#sphx-glr-gallery-subplots-axes-and-figures-axhspan-demo-py
+https://matplotlib.org/stable/gallery/lines_bars_and_markers/timeline.html#sphx-glr-gallery-lines-bars-and-markers-timeline-py
+https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html
+</code></pre>
+
+<p> The code of models refer to the links below: </p>
+<pre><code>
+https://scikit-learn.org/stable/modules/naive_bayes.html
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
+https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+</code></pre>
+
+<p> Spearman correlation implementation refers to the link below: </p>
+<pre><code>
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.spearmanr.html
+</code></pre>
+
+<p> Vader and Afinn implementation refers to the links below: </p>
+<pre><code>
+https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/
+https://github.com/fnielsen/afinn
+</code></pre>
 
 
 
