@@ -1,5 +1,5 @@
 # CSCI 6509 P07-Sentiment Analysis of Apple company
-
+## The details and the analysis of the project is in report.pdf
 ## The main code file is code.ipynb
 <p> the data processing we referred to several package documentation, such as pandas, matplotlib, seaborn, sklearn.
      documentation of those package could be found at links below : </p>
